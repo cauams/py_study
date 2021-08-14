@@ -1,3 +1,5 @@
+# Operadores de comparação
+
 operadores = 'banana' == 'Banana'
 
 
